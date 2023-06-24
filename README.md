@@ -11,4 +11,9 @@ This is a deep learning project on Stock Price prediction and model performance 
 <img width="755" alt="image" src="https://github.com/PretomGhosh/Stock-Price-prediction-and-model-performance-comparison-using-multivariate-time-series-data/assets/34418713/49004485-e5ce-4b12-9bcf-95e5960b9a38">
 <img width="995" alt="image" src="https://github.com/PretomGhosh/Stock-Price-prediction-and-model-performance-comparison-using-multivariate-time-series-data/assets/34418713/c0c5bdc8-1325-48e6-9d11-e2de43bfe24c">
 <img width="847" alt="image" src="https://github.com/PretomGhosh/Stock-Price-prediction-and-model-performance-comparison-using-multivariate-time-series-data/assets/34418713/fd6c9792-1f42-473d-b454-d54cfe1c5570">
-
+Libraries used:
+Pandas, Numpy, Keras, TensoFlow, Sklearn, matplotlib, seaborn
+Models used:
+LSTM, TNN
+Highlighted works done: 
+EDA, 10 fold cross validation, Hyperparameter tuning, training, testing, prediction, performance measurement
